@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/KBK_C#/kbk_lesson6/kbk_lesson6/bin/Debug/net6.0/kbk_lesson6
+/Users/macbook/Desktop/KBK_C#/kbk_lesson6/kbk_lesson6/bin/Debug/net6.0/kbk_lesson6.deps.json
+/Users/macbook/Desktop/KBK_C#/kbk_lesson6/kbk_lesson6/bin/Debug/net6.0/kbk_lesson6.runtimeconfig.json
+/Users/macbook/Desktop/KBK_C#/kbk_lesson6/kbk_lesson6/bin/Debug/net6.0/kbk_lesson6.dll
+/Users/macbook/Desktop/KBK_C#/kbk_lesson6/kbk_lesson6/bin/Debug/net6.0/kbk_lesson6.pdb
+/Users/macbook/Desktop/KBK_C#/kbk_lesson6/kbk_lesson6/obj/Debug/net6.0/kbk_lesson6.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/KBK_C#/kbk_lesson6/kbk_lesson6/obj/Debug/net6.0/kbk_lesson6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/KBK_C#/kbk_lesson6/kbk_lesson6/obj/Debug/net6.0/kbk_lesson6.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/KBK_C#/kbk_lesson6/kbk_lesson6/obj/Debug/net6.0/kbk_lesson6.AssemblyInfo.cs
+/Users/macbook/Desktop/KBK_C#/kbk_lesson6/kbk_lesson6/obj/Debug/net6.0/kbk_lesson6.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/KBK_C#/kbk_lesson6/kbk_lesson6/obj/Debug/net6.0/kbk_lesson6.dll
+/Users/macbook/Desktop/KBK_C#/kbk_lesson6/kbk_lesson6/obj/Debug/net6.0/refint/kbk_lesson6.dll
+/Users/macbook/Desktop/KBK_C#/kbk_lesson6/kbk_lesson6/obj/Debug/net6.0/kbk_lesson6.pdb
+/Users/macbook/Desktop/KBK_C#/kbk_lesson6/kbk_lesson6/obj/Debug/net6.0/kbk_lesson6.genruntimeconfig.cache
+/Users/macbook/Desktop/KBK_C#/kbk_lesson6/kbk_lesson6/obj/Debug/net6.0/ref/kbk_lesson6.dll
